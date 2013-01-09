@@ -1,0 +1,12 @@
+{
+  "name": "test-module",
+  "version": "1.0.2",
+  "root": "test",
+  "description": "测试模块",
+  "dependencies": {
+    "widget": "arale/widget/1.0.2/widget"
+  },
+  "output": {
+    "mod.js": "*"
+  }
+}
